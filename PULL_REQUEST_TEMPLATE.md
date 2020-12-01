@@ -8,5 +8,3 @@
   -
   -
   
-## Screenshots if applicable (Before/After)
-
