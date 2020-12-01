@@ -4,9 +4,7 @@
 
 ## Proposed Changes
 
-  -
+  - Change
   -
   -
   
-## Screenshots if applicable (Before/After)
-
